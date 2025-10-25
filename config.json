@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "minecraft": {
+      "command": "python3",
+      "args": ["/path/to/minecraft-mcp/mcp_server/server.py"]
+    }
+  }
+}
